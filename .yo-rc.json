@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Coca",
+    "packageName": "com.xhy.coca",
+    "packageFolder": "com/xhy/coca",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "en",
+      "zh-cn"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "MzcyYmRjNDI5MzQ4Y2Q4ZDZjODcwNWE1ZDdmMzEyZDllMjUxZDRlMzI3NTc3ODI1ODQ3MzQ5N2Y4NTEwZWY2MjZlMmQ5YjFmNThiMTVlZWNmM2IwZjQ5MTMwNDEzOWE0NTkxYjFlNTYwODFlNzY3ODM0ZDIwZDBhYWVjOWI1ZDg=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "hyhyxu",
+  "repository-name": "jhipster-sample-application-coca"
+}
